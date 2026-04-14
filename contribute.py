@@ -212,7 +212,8 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
         else:
             print(f'  [texture] WARNING: no folder rule for "{fname}" — left in place')
             continue
-        dest_dir = os.path.join(texture_dir, folder)
+        subfolder = folder if mark_translated else os.path.join('_untranslated', folder)
+        dest_dir = os.path.join(texture_dir, subfolder)
         os.makedirs(dest_dir, exist_ok=True)
         shutil.move(fpath, os.path.join(dest_dir, fname))
         moved.append((folder, fname))
