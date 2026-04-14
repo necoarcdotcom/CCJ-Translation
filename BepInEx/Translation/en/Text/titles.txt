@@ -1,0 +1,458 @@
+新人チェイサー=New chaser
+<color\=#ff2c9a>お</color><color\=#ffb400>大</color><color\=#f1f40d>尽</color><color\=#5aff00>さ</color><color\=#6db5ff>ま</color>=<color\=#ff2c9a>oh</color><color\=#ffb400>Big</color><color\=#f1f40d>Exhausting</color><color\=#5aff00>difference</color><color\=#6db5ff>Ma</color>
+<color\=#ff067c>鬼神</color>=<color\=#ff067c>Demon god</color>
+<color\=#ff067c>鬼まんじゅう</color>=<color\=#ff067c>Oni Manju</color>
+カギコのレベルが６０に到達=Kagiko's level reaches 60
+カギコのレベルが７０に到達=Kagiko's level reaches 70
+カギコのレベルが４０に到達=Kagiko's level reaches 40
+カギコのレベルが１００に到達=Kagiko's level reaches 100
+カギコのレベルが９０に到達=Kagiko's level reaches 90
+カギコのレベルが２００に到達=Kagiko's level reaches 200
+カギコのレベルが８０に到達=Kagiko's level reaches 80
+カギコのレベルが５０に到達=Kagiko's level reaches 50
+カギコのレベルが３０に到達=Kagiko's level reaches 30
+カギコのレベルが５００に到達=Kagiko's level reaches 500
+<color\=#ff067c>鬼哭啾啾</color>=<color\=#ff067c>Wailing of Demons</color>
+カギコのレベルが４５０に到達=Kagiko's level reaches 450
+<color\=#ff067c>百鬼夜行</color>=<color\=#ff067c>Night Parade of a Hundred Demons</color>
+カギコのレベルが４００に到達=Kagiko's level reaches 400
+<color\=#ff067c>悪鬼羅刹</color>=<color\=#ff067c>Bad demon spell</color>
+カギコのレベルが３５０に到達=Kagiko's level reaches 350
+<color\=#ff067c>鬼降ろし</color>=<color\=#ff067c>Demon descent</color>
+カギコのレベルが３００に到達=Kagiko's level reaches 300
+<color\=#ff067c>鬼ヶ島</color>=<color\=#ff067c>Oniga Island</color>
+カギコのレベルが２５０に到達=Kagiko's level reaches 250
+<color\=#ff067c>鬼火</color>=<color\=#ff067c>Demon fire</color>
+<color\=#ff067c>眠り姫</color>=<color\=#ff067c>Sleeping Princess</color>
+カギコのレベルが５５０に到達=Kagiko's level reaches 550
+チノンのレベルが３０に到達=Chinon's level reaches 30
+チノンのレベルが４０に到達=Chinon's level reaches 40
+チノンのレベルが５０に到達=Chinon's level reaches 50
+ミロクのレベルが４００に到達=Miroku's level reaches 400
+<color\=#ffde00>御雷光</color>=<color\=#ffde00>Divine Thunder</color>
+ミロクのレベルが３５０に到達=Miroku's level reaches 350
+<color\=#ffde00>魂ノ狩人</color>=<color\=#ffde00>Soul hunter</color>
+ミロクのレベルが３００に到達=Miroku's level reaches 300
+<color\=#ffde00>落雷警報</color>=<color\=#ffde00>Lightning warning</color>
+ミロクのレベルが２５０に到達=Miroku's level reaches 250
+<color\=#ffde00>収穫期</color>=<color\=#ffde00>Harvest time</color>
+ミロクのレベルが２００に到達=Miroku's level reaches 200
+<color\=#ffde00>雷さま</color>=<color\=#ffde00>Lightning</color>
+ミロクのレベルが１００に到達=Miroku's level reaches 100
+<color\=#ffde00>死神</color>=<color\=#ffde00>grim reaper</color>
+ミロクのレベルが９０に到達=Miroku's level reaches 90
+ミロクのレベルが８０に到達=Miroku's level reaches 80
+ミロクのレベルが７０に到達=Miroku's level reaches 70
+ミロクのレベルが６０に到達=Miroku's level reaches 60
+２０２３年１２月のランキングでトップ１０入り=Top 10 in the ranking of December 2023
+<sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の疾幽</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December of December</color>
+２０２３年１１月のランキングでトップ１００入り=Top 100 in the ranking of November 2023
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の英幽</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November English ghost</color>
+２０２３年１０月のランキングでトップ１００入り=Top 100 in the October 2023 ranking
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の英幽</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October English ghost</color>
+２０２３年９月のランキングでトップ１００入り=Top 100 in the September 2023 ranking
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の英幽</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September English ghost</color>
+２０２３年８月のランキングでトップ１００入り=Top 100 in the ranking of August 2023
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英幽</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August English ghost</color>
+２０２３年７月のランキングでトップ１００入り=Top 100 in the ranking of July 2023
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英幽</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July English ghost</color>
+２０２３年６月のランキングでトップ１００入り=Top 100 in June 2023
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英幽</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June English ghost</color>
+２０２３年５月のランキングでトップ１００入り=Top 100 in the ranking of May 2023
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英幽</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May English ghost</color>
+２０２３年４月のランキングでトップ１００入り=Top 100 in the ranking of April 2023
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の英幽</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April English ghost</color>
+２０２３年３月のランキングでトップ１００入り=Top 100 in the March 2023 ranking
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の英幽</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March English ghost</color>
+２０２３年４月のランキングでトップ１０入り=Top 10 in the ranking of April 2023
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊幽</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April of April</color>
+２０２３年３月のランキングでトップ１０入り=Top 10 in the March 2023 ranking
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊幽</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March of the March</color>
+２０２３年２月のランキングでトップ１０入り=Top 10 in the ranking of February 2023
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊幽</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February Shun</color>
+２０２３年１月のランキングでトップ１０入り=Top 10 in the January 2023 ranking
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊幽</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January of January</color>
+２０２２年１２月のランキングでトップ１０入り=Top 10 in the ranking of December 2022
+<sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の俊幽</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December of December</color>
+２０２４年１１月のランキングでトップ１００入り=Top 100 in the ranking of November 2024
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の速血</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November fast blood</color>
+２０２４年１０月のランキングでトップ１００入り=Top 100 in the October 2024 ranking
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の速血</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October quick blood</color>
+２０２４年９月のランキングでトップ１００入り=Top 100 in the September ranking of September 2024
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の速血</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September fast blood</color>
+２０２４年８月のランキングでトップ１００入り=Top 100 in the ranking of August 2024
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の速血</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August blood blood</color>
+２０２４年７月のランキングでトップ１００入り=Top 100 in the ranking of July 2024
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の速血</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July Fast Blood</color>
+２０２４年６月のランキングでトップ１００入り=Top 100 in June 2024
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の速血</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June Fast Blood</color>
+２０２４年５月のランキングでトップ１００入り=Top 100 in the ranking of May 2024
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の速血</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May Fast Blood</color>
+２０２４年４月のランキングでトップ１００入り=Top 100 in the ranking of April 2024
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の速血</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April quick blood</color>
+２０２４年３月のランキングでトップ１００入り=Top 100 in the March 2024 ranking
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の速血</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March quick blood</color>
+２０２４年２月のランキングでトップ１００入り=Top 100 in the ranking of February 2024
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の速血</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February quick blood</color>
+２０２４年１月のランキングでトップ１００入り=Top 100 in the January 2024 ranking
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の速血</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January fast blood</color>
+２０２３年１２月のランキングでトップ１００入り=Top 100 in the ranking of December 2023
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の速血</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December quick blood</color>
+２０２４年１１月のランキングでトップ１０入り=Top 10 in the November 2024 ranking
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の疾血</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November blood</color>
+２０２４年１０月のランキングでトップ１０入り=Top 10 in the ranking of October 2024
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の疾血</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October blood</color>
+２０２４年９月のランキングでトップ１０入り=Top 10 in the September 2024 ranking
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の疾血</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September blood</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊狼</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March Shunlu</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊狼</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February Shunlu</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊狼</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January Shunla</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の速呪</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's fast curse</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の速呪</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October fast curse</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の速呪</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's fast curse</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の速呪</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's fast curse</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の速呪</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July Fast Curse</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の速呪</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's fast curse</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の速呪</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's fast curse</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の速蛾</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March fast moth</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の速蛾</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February Fast Moth</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の速蛾</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January fast moth</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の速蛾</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December Fast Moth</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の疾蛾</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November Fast Moth</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の疾蛾</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October Fast Moth</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の疾蛾</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September Fast Moth</color>
+２０２４年８月のランキングでトップ１０入り=Top 10 in the ranking of August 2024
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の疾蛾</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August moth</color>
+２０２４年７月のランキングでトップ１０入り=Top 10 in the July 2024 ranking
+２０２４年６月のランキングでトップ１０入り=Top 10 in the June 2024 ranking
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の疾蛾</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July moth</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の疾蛾</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June Moth</color>
+鹿児島県でプレー=Play in Kagoshima Prefecture
+宮崎県でプレー=Play in Miyazaki Prefecture
+大分県でプレー=Play in Oita prefecture
+熊本県でプレー=Play in Kumamoto Prefecture
+長崎県でプレー=Play in Nagasaki Prefecture
+佐賀県でプレー=Play in Saga Prefecture
+福岡県でプレー=Play in Fukuoka Prefecture
+高知県でプレー=Play in Kochi Prefecture
+愛媛県でプレー=Play in Ehime Prefecture
+香川県でプレー=Play in Kagawa Prefecture
+徳島県でプレー=Play in Tokushima Prefecture
+山口県でプレー=Play in Yamaguchi Prefecture
+広島県でプレー=Play in Hiroshima Prefecture
+岡山県でプレー=Play in Okayama Prefecture
+島根県でプレー=Play in Shimane Prefecture
+鳥取県でプレー=Play in Tottori Prefecture
+和歌山県でプレー=Play in Wakayama Prefecture
+奈良県でプレー=Play in Nara Prefecture
+兵庫県でプレー=Play in Hyogo Prefecture
+大阪府でプレー=Play in Osaka
+京都府でプレー=Play in Kyoto Prefecture
+滋賀県でプレー=Play in Shiga Prefecture
+三重県でプレー=Play in Mie Prefecture
+愛知県でプレー=Play in Aichi Prefecture
+静岡県でプレー=Play in Shizuoka Prefecture
+岐阜県でプレー=Play in Gifu
+長野県でプレー=Play in Nagano Prefecture
+山梨県でプレー=Play in Yamanashi Prefecture
+福井県でプレー=Play in Fukui Prefecture
+石川県でプレー=Play in Ishikawa Prefecture
+富山県でプレー=Play in Toyama Prefecture
+新潟県でプレー=Play in Niigata Prefecture
+神奈川県でプレー=Play in Kanagawa Prefecture
+東京都でプレー=Play in Tokyo
+千葉県でプレー=Play in Chiba Prefecture
+埼玉県でプレー=Play in Saitama Prefecture
+群馬県でプレー=Play in Gunma Prefecture
+栃木県でプレー=Play in Tochigi prefecture
+茨城県でプレー=Play in Ibaraki Prefecture
+福島県でプレー=Play in Fukushima Prefecture
+山形県でプレー=Play in Yamagata Prefecture
+秋田県でプレー=Play in Akita Prefecture
+宮城県でプレー=Play in Miyagi Prefecture
+岩手県でプレー=Play in Iwate Prefecture
+青森県でプレー=Play in Aomori Prefecture
+北海道でプレー=Play in Hokkaido
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の速閻</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November Fast Enma</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の速閻</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October Fast Enma</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の速閻</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September Fast Enma</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の速閻</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August Fast Enma</color>
+沖縄県でプレー=Play in Okinawa
+紅刃のレベルが６０に到達=Kureha's level reaches 60
+紅刃のレベルが７０に到達=Kureha's level reaches 70
+紅刃のレベルが８０に到達=Kureha's level reaches 80
+紅刃のレベルが９０に到達=Kureha's level reaches 90
+紅刃のレベルが１００に到達=Kureha's level reaches 100
+紅刃のレベルが２００に到達=Kureha's level reaches 200
+紅刃のレベルが２５０に到達=Kureha's level reaches 250
+紅刃のレベルが３００に到達=Kureha's level reaches 300
+紅刃のレベルが３５０に到達=Kureha's level reaches 350
+紅刃のレベルが４００に到達=Kureha's level reaches 400
+ボタンのレベルが５５０に到達=Botan's level reaches 550
+<color\=#ff4ba0>過分の対価</color>=<color\=#ff4ba0>More Than You Deserve</color>
+ボタンのレベルが５００に到達=Botan's level reaches 500
+<color\=#ff4ba0>純白の蕾</color>=<color\=#ff4ba0>Pure white buds</color>
+ボタンのレベルが４５０に到達=Botan's level reaches 450
+<color\=#ff4ba0>絶対絶対</color>=<color\=#ff4ba0>Absolute</color>
+ボタンのレベルが４００に到達=Botan's level reaches 400
+ボタンのレベルが３５０に到達=Botan's level reaches 350
+<color\=#ff4ba0>トイレ住み</color>=<color\=#ff4ba0>Living in the toilet</color>
+ボタンのレベルが３００に到達=Botan's level reaches 300
+<color\=#ff4ba0>いらっしゃいますか？</color>=<color\=#ff4ba0>Are You There?</color>
+ボタンのレベルが２５０に到達=Botan's level reaches 250
+<color\=#ff4ba0>都市伝説</color>=<color\=#ff4ba0>urban legend</color>
+紅刃のレベルが３０に到達=Kureha's level reaches 30
+紅刃のレベルが４０に到達=Kureha's level reaches 40
+紅刃のレベルが５０に到達=Kureha's level reaches 50
+<color\=#ff4bce>尊い</color>=<color\=#ff4bce>precious</color>
+<color\=#ff2c9a>夏</color>の<color\=#6db5ff>夜</color>の<color\=#ffb400>夢</color>=<color\=#ff2c9a>summer</color>of<color\=#6db5ff>Night</color>of<color\=#ffb400>dream</color>
+<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>汝</color><color\=#d78aff>塔を</color><color\=#5fe7ff>知</color><color\=#d78aff>れ</color>=<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>Know</color><color\=#d78aff> the </color><color\=#5fe7ff>Tower</color>
+<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>塔</color><color\=#d78aff>なき者に</color><color\=#5fe7ff>成功</color><color\=#d78aff>なし</color>=<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>No</color><color\=#d78aff> tower, </color><color\=#5fe7ff>no</color><color\=#d78aff> success</color>
+<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>我</color><color\=#d78aff>思う故に</color><color\=#5fe7ff>塔</color><color\=#d78aff>あり</color>=<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>I</color><color\=#d78aff> think, therefore</color><color\=#5fe7ff> Tower</color>
+<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>塔は</color><color\=#d78aff>一日</color><color\=#5fe7ff>にして</color><color\=#d78aff>成らず</color>=<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>The tower</color><color\=#d78aff>one day</color><color\=#5fe7ff>In</color><color\=#d78aff>Ineffective</color>
+<sprite name\="shogo_mark_towerkyu"><color\=#ff55fc>塔に</color><color\=#5fe7ff>至る</color><color\=#00ff5a>病</color>=<sprite name\="shogo_mark_towerkyu"><color\=#ff55fc>To the tower</color><color\=#5fe7ff>Get</color><color\=#00ff5a>disease</color>
+チノンのレベルが６０に到達=Chinon's level reaches 60
+チノンのレベルが７０に到達=Chinon's level reaches 70
+チノンのレベルが８０に到達=Chinon's level reaches 80
+チノンのレベルが９０に到達=Chinon's level reaches 90
+<color\=#5fe7ff>ヴァンパイア・ロード</color>=<color\=#5fe7ff>Vampire Lord</color>
+チノンのレベルが１００に到達=Chinon's level reaches 100
+<color\=#5fe7ff>血が騒ぐ</color>=<color\=#5fe7ff>Blood Rush</color>
+チノンのレベルが２００に到達=Chinon's level reaches 200
+<color\=#5fe7ff>生き血をすする</color>=<color\=#5fe7ff>Drinking Fresh Blood</color>
+チノンのレベルが２５０に到達=Chinon's level reaches 250
+<color\=#5fe7ff>血も涙もない</color>=<color\=#5fe7ff>No blood, no tears</color>
+チノンのレベルが３００に到達=Chinon's level reaches 300
+<color\=#5fe7ff>血と汗の結晶</color>=<color\=#5fe7ff>Crystals of blood and sweat</color>
+チノンのレベルが３５０に到達=Chinon's level reaches 350
+<color\=#5fe7ff>無限の渇き</color>=<color\=#5fe7ff>Infinite thirst</color>
+チノンのレベルが４００に到達=Chinon's level reaches 400
+ミヨミのレベルが８０に到達=Miyomi's level reaches 80
+ミヨミのレベルが７０に到達=Miyomi's level reaches 70
+ミヨミのレベルが６０に到達=Miyomi's level reaches 60
+ミヨミのレベルが５０に到達=Miyomi's level reaches 50
+ミヨミのレベルが４０に到達=Miyomi's level reaches 40
+ミヨミのレベルが３０に到達=Miyomi's level reaches 30
+チノンのレベルが５５０に到達=Chinon's level reaches 550
+<color\=#5fe7ff>不浄の人</color>=<color\=#5fe7ff>Unclean person</color>
+チノンのレベルが５００に到達=Chinon's level reaches 500
+<color\=#5fe7ff>終の渇望</color>=<color\=#5fe7ff>Last craving</color>
+チノンのレベルが４５０に到達=Chinon's level reaches 450
+<color\=#5fe7ff>命の業</color>=<color\=#5fe7ff>Karma of Life</color>
+ミヨミのレベルが９０に到達=Miyomi's level reaches 90
+パインのレベルが３０に到達=Pine's level reaches 30
+ミヨミのレベルが５５０に到達=Miyomi's level reaches 550
+<color\=#c0ff00>虚と妄</color>=<color\=#c0ff00>Imaginary and delusion</color>
+ミヨミのレベルが５００に到達=Miyomi's level reaches 500
+<color\=#c0ff00>屍鬼</color>=<color\=#c0ff00>Corpse Demon</color>
+ミヨミのレベルが４５０に到達=Miyomi's level reaches 450
+ミヨミのレベルが４００に到達=Miyomi's level reaches 400
+<color\=#c0ff00>偽りの希望</color>=<color\=#c0ff00>False hope</color>
+ミヨミのレベルが３５０に到達=Miyomi's level reaches 350
+<color\=#c0ff00>呉越同舟</color>=<color\=#c0ff00>Strange Bedfellows</color>
+ミヨミのレベルが３００に到達=Miyomi's level reaches 300
+<color\=#c0ff00>捲土重来</color>=<color\=#c0ff00>Roaring Comeback</color>
+ミヨミのレベルが２５０に到達=Miyomi's level reaches 250
+<color\=#c0ff00>四面楚歌</color>=<color\=#c0ff00>Surrounded on All Sides</color>
+ミヨミのレベルが２００に到達=Miyomi's level reaches 200
+<color\=#c0ff00>背水の陣</color>=<color\=#c0ff00>Back to the Wall</color>
+ミヨミのレベルが１００に到達=Miyomi's level reaches 100
+<color\=#c0ff00>黄龍</color>=<color\=#c0ff00>Yellow dragon</color>
+パインのレベルが３００に到達=Pine's level reaches 300
+パインのレベルが２５０に到達=Pine's level reaches 250
+パインのレベルが２００に到達=Pine's level reaches 200
+パインのレベルが１００に到達=Pine's level reaches 100
+パインのレベルが９０に到達=Pine's level reaches 90
+パインのレベルが８０に到達=Pine's level reaches 80
+パインのレベルが７０に到達=Pine's level reaches 70
+パインのレベルが６０に到達=Pine's level reaches 60
+パインのレベルが５０に到達=Pine's level reaches 50
+パインのレベルが４０に到達=Pine's level reaches 40
+ツバキのレベルが７０に到達=Tsubaki's level reaches 70
+ツバキのレベルが６０に到達=Tsubaki's level reaches 60
+ツバキのレベルが５０に到達=Tsubaki's level reaches 50
+ツバキのレベルが４０に到達=Tsubaki's level reaches 40
+ツバキのレベルが３０に到達=Tsubaki's level reaches 30
+パインのレベルが５５０に到達=Pine's level reaches 550
+パインのレベルが５００に到達=Pine's level reaches 500
+パインのレベルが４５０に到達=Pine's level reaches 450
+パインのレベルが４００に到達=Pine's level reaches 400
+パインのレベルが３５０に到達=Pine level reaches 350
+ツバキのレベルが５００に到達=Tsubaki's level reaches 500
+ツバキのレベルが４５０に到達=Tsubaki's level reaches 450
+ツバキのレベルが４００に到達=Tsubaki's level reaches 400
+<color\=#ff1717>念死</color>=<color\=#ff1717>Cursed to Death</color>
+ツバキのレベルが３５０に到達=Tsubaki's level reaches 350
+<color\=#ff1717>ニギミタマ</color>=<color\=#ff1717>Nigimitama</color>
+ツバキのレベルが３００に到達=Tsubaki's level reaches 300
+<color\=#ff1717>忌火</color>=<color\=#ff1717>Forbidden Flame</color>
+ツバキのレベルが２５０に到達=Tsubaki's level reaches 250
+<color\=#ff1717>アラミタマ</color>=<color\=#ff1717>Aramitama</color>
+ツバキのレベルが２００に到達=Tsubaki's level reaches 200
+<color\=#ff1717>呪海</color>=<color\=#ff1717>Sea of Curses</color>
+ツバキのレベルが１００に到達=Tsubaki's level reaches 100
+<color\=#ff1717>常世の依り代</color>=<color\=#ff1717>Vessel of the Eternal Realm</color>
+ツバキのレベルが９０に到達=Tsubaki's level reaches 90
+ツバキのレベルが８０に到達=Tsubaki's level reaches 80
+ボタンのレベルが２００に到達=Botan's level reaches 200
+<color\=#ff4ba0>三番目の</color>=<color\=#ff4ba0>Third</color>
+ボタンのレベルが１００に到達=The level of the button reaches 100
+<color\=#ff4ba0>怪異の契約者</color>=<color\=#ff4ba0>Pact with the Paranormal</color>
+ボタンのレベルが９０に到達=Botan's level reaches 90
+ボタンのレベルが８０に到達=Botan's level reaches 80
+ボタンのレベルが７０に到達=Botan's level reaches 70
+ボタンのレベルが６０に到達=Botan's level reaches 60
+ボタンのレベルが５０に到達=Botan's level reaches 50
+ボタンのレベルが４０に到達=Botan's level reaches 40
+ボタンのレベルが３０に到達=Botan's level reaches 30
+ツバキのレベルが５５０に到達=Tsubaki's level reaches 550
+<color\=#ff1717>呪環</color>=<color\=#ff1717>Spell</color>
+チアモのレベルが９０に到達=Chiamo level reaches 90
+チアモのレベルが８０に到達=Chiamo's level reaches 80
+チアモのレベルが７０に到達=Chiamo's level reaches 70
+チアモのレベルが６０に到達=Chiamo's level reaches 60
+チアモのレベルが５０に到達=Chiamo's level reaches 50
+チアモのレベルが４０に到達=Chiamo's level reaches 40
+チアモのレベルが３０に到達=Chiamo's level reaches 30
+紅刃のレベルが５５０に到達=Kureha's level reaches 550
+<color\=#ff1717>剣聖</color>=<color\=#ff1717>Sword saint</color>
+紅刃のレベルが５００に到達=Kureha's level reaches 500
+紅刃のレベルが４５０に到達=Kureha's level reaches 450
+ツバキ【廻】のレベルが３０に到達=Alternate Tsubaki's level reaches 30
+チアモのレベルが５５０に到達=Chiamo's level reaches 550
+<color\=#ff4bce>偽愛の巣</color>=<color\=#ff4bce>Fake nest</color>
+チアモのレベルが５００に到達=Chiamo level reaches 500
+<color\=#ff4bce>黒死蝶</color>=<color\=#ff4bce>Black butterfly</color>
+チアモのレベルが４５０に到達=Chiamo's level reaches 450
+<color\=#ff4bce>毒蛾の糸</color>=<color\=#ff4bce>Poisonous moth thread</color>
+チアモのレベルが４００に到達=Chiamo's level reaches 400
+<color\=#ff4bce>死が二人を分かつまで</color>=<color\=#ff4bce>Till Death Do Us Part</color>
+チアモのレベルが３５０に到達=Chiamo's level reaches 350
+<color\=#ff4bce>誘蛾灯</color>=<color\=#ff4bce>Moth Lamp</color>
+チアモのレベルが３００に到達=Chiamo's level reaches 300
+<color\=#ff4bce>蝶よ花よ</color>=<color\=#ff4bce>Pampered with Love</color>
+チアモのレベルが２５０に到達=Chiamo's level reaches 250
+<color\=#ff4bce>蛾の火に赴くが如し</color>=<color\=#ff4bce>Like a Moth to a Flame</color>
+チアモのレベルが２００に到達=Chiamo's level reaches 200
+<color\=#ff4bce>胡蝶の夢</color>=<color\=#ff4bce>The Butterfly Dream</color>
+チアモのレベルが１００に到達=Chiamo's level reaches 100
+<color\=#ff4bce>愛のチカラ</color>=<color\=#ff4bce>The power of love</color>
+ツバキ【廻】のレベルが３００に到達=Alternate Tsubaki's level reaches 300
+<color\=#ff1717>鉄槌</color>=<color\=#ff1717>Iron Hammer</color>
+ツバキ【廻】のレベルが２５０に到達=Alternate Tsubaki's level reaches 250
+<color\=#ff1717>五寸釘</color>=<color\=#ff1717>Iron Spike</color>
+ツバキ【廻】のレベルが２００に到達=Alternate Tsubaki's level reaches 200
+<color\=#ff1717>鉄輪</color>=<color\=#ff1717>Iron Ring</color>
+ツバキ【廻】のレベルが１００に到達=The level of Tsubaki [Turn] reaches 100
+<color\=#ff1717>祟り神</color>=<color\=#ff1717>God of Curses</color>
+ツバキ【廻】のレベルが９０に到達=Alternate Tsubaki's level reaches 90
+ツバキ【廻】のレベルが８０に到達=Alternate Tsubaki's level reaches 80
+ツバキ【廻】のレベルが７０に到達=Alternate Tsubaki's level reaches 70
+ツバキ【廻】のレベルが６０に到達=Alternate Tsubaki's level reaches 60
+ツバキ【廻】のレベルが５０に到達=Alternate Tsubaki's level reaches 50
+ツバキ【廻】のレベルが４０に到達=Alternate Tsubaki's level reaches 40
+マラリヤのレベルが７０に到達=Malariya's level reaches 70
+マラリヤのレベルが６０に到達=Malariya's level reaches 60
+マラリヤのレベルが５０に到達=Malariya's level reaches 50
+マラリヤのレベルが４０に到達=Malariya's level reaches 40
+マラリヤのレベルが３０に到達=Malariya's level reaches 30
+ツバキ廻のレベルが５５０に到達=Alternate Tsubaki's level reaches 550
+<color\=#ff1717>天呪地護</color>=<color\=#ff1717>Heaven's Curse, Earth's Ward</color>
+ツバキ廻のレベルが５００に到達=Alternate Tsubaki's level reaches 500
+<color\=#ff1717>禁厭</color>=<color\=#ff1717>Forbidden Curse</color>
+ツバキ廻のレベルが４５０に到達=Alternate Tsubaki's level reaches 450
+<color\=#ff1717>恨み 祟り 呪う</color>=<color\=#ff1717>Grudge, Wrath, Curse</color>
+ツバキ廻のレベルが４００に到達=Alternate Tsubaki's level reaches 400
+<color\=#ff1717>永久に呪う</color>=<color\=#ff1717>Eternal Curse</color>
+ツバキ【廻】のレベルが３５０に到達=Alternate Tsubaki's level reaches 350
+<color\=#ff1717>藁人形</color>=<color\=#ff1717>Straw doll</color>
+マラリヤのレベルが５００に到達=Malariya's level reaches 500
+<color\=#e49bff>軌跡の交叉</color>=<color\=#e49bff>Crossing Paths</color>
+マラリヤのレベルが４５０に到達=Malariya's level reaches 450
+マラリヤのレベルが４００に到達=Malariya's level reaches 400
+マラリヤのレベルが３５０に到達=Malariya's level reaches 350
+<color\=#e49bff>トーキョーグリモワール</color>=<color\=#e49bff>Tokyo Grimoire</color>
+マラリヤのレベルが３００に到達=Malariya's level reaches 300
+<color\=#e49bff>暁の鐘</color>=<color\=#e49bff>Dawn bell</color>
+マラリヤのレベルが２５０に到達=Malariya's level reaches 250
+<color\=#e49bff>天の学舎</color>=<color\=#e49bff>School of Heaven</color>
+マラリヤのレベルが２００に到達=Malariya's level reaches 200
+<color\=#e49bff>賢者の扉</color>=<color\=#e49bff>Sage's Gate</color>
+マラリヤのレベルが１００に到達=Marariya level reaches 100
+<color\=#e49bff>賢者</color>=<color\=#e49bff>Sage</color>
+マラリヤのレベルが９０に到達=Malariya's level reaches 90
+マラリヤのレベルが８０に到達=Malariya's level reaches 80
+クルルのレベルが２００に到達=Kururu's level reaches 200
+<color\=#00ea90>悪意の天使</color>=<color\=#00ea90>Malicious angel</color>
+クルルのレベルが１００に到達=Kururu's level reaches 100
+<color\=#00ea90>リビングデッド</color>=<color\=#00ea90>Living dead</color>
+クルルのレベルが９０に到達=Kururu's level reaches 90
+クルルのレベルが８０に到達=Kururu's level reaches 80
+クルルのレベルが７０に到達=Kururu's level reaches 70
+クルルのレベルが６０に到達=Kururu's level reaches 60
+クルルのレベルが５０に到達=Kururu's level reaches 50
+クルルのレベルが４０に到達=Kururu's level reaches 40
+クルルのレベルが３０に到達=Kururu's level reaches 30
+マラリヤのレベルが５５０に到達=Marariya level reaches 550
+<color\=#e49bff>輝望の刻</color>=<color\=#e49bff>Encourse</color>
+ミロクのレベルが５０に到達=Miroku's level reaches 50
+ミロクのレベルが４０に到達=Miroku's level reaches 40
+ミロクのレベルが３０に到達=Miroku's level reaches 30
+クルルのレベルが５５０に到達=Kururu's level reaches 550
+<color\=#00ea90>純・慈愛</color>=<color\=#00ea90>Pure and charity</color>
+クルルのレベルが５００に到達=Kururu's level reaches 500
+<color\=#00ea90>腐蝕系女子</color>=<color\=#00ea90>Corrosion girl</color>
+クルルのレベルが４５０に到達=Kururu's level reaches 450
+<color\=#00ea90>発酵中</color>=<color\=#00ea90>During fermentation</color>
+クルルのレベルが４００に到達=Kururu's level reaches 400
+<color\=#00ea90>腐敗した愛</color>=<color\=#00ea90>Rotted love</color>
+クルルのレベルが３５０に到達=Kururu's level reaches 350
+<color\=#00ea90>頭痛が痛い</color>=<color\=#00ea90>Headache hurts</color>
+クルルのレベルが３００に到達=Kururu's level reaches 300
+<color\=#00ea90>看護します</color>=<color\=#00ea90>Nursing</color>
+クルルのレベルが２５０に到達=Kururu's level reaches 250
+<color\=#00ea90>メディカル☆ゾンビ</color>=<color\=#00ea90>Medical ☆ zombies</color>
+ジョウカのレベルが９０に到達=Jouka's level reaches 90
+ジョウカのレベルが８０に到達=Jouka's level reaches 80
+ジョウカのレベルが７０に到達=Jouka's level reaches 70
+ジョウカのレベルが６０に到達=Jouka's level reaches 60
+ジョウカのレベルが５０に到達=Jouka's level reaches 50
+ジョウカのレベルが４０に到達=Jouka's level reaches 40
+ジョウカのレベルが３０に到達=Jouka's level reaches 30
+ミロクのレベルが５５０に到達=Miroku's level reaches 550
+<color\=#ffde00>輪廻の囚人</color>=<color\=#ffde00>Rinne prisoners</color>
+ミロクのレベルが５００に到達=Miroku's level reaches 500
+<color\=#ffde00>陽炎稲妻水の月</color>=<color\=#ffde00>The moon of the flire lightning water</color>
+ミロクのレベルが４５０に到達=Miroku's level reaches 450
+<color\=#ffde00>鎮魂歌</color>=<color\=#ffde00>Requiem song</color>
+<color\=#00e3ff>捷疾鬼</color>=<color\=#00e3ff>Hollow</color>
+<color\=#00e3ff>見果てぬ夢</color>=<color\=#00e3ff>Unexpected dream</color>
+<color\=#00e3ff>韋駄天</color>=<color\=#00e3ff>Wandering</color>
+ジョウカのレベルが５５０に到達=Jouka's level reaches 550
+<color\=#00e3ff>虚無の器</color>=<color\=#00e3ff>Vain</color>
+ジョウカのレベルが５００に到達=Jouka's level reaches 500
+ジョウカのレベルが４５０に到達=Jouka's level reaches 450
+<color\=#00e3ff>紺碧ノ鬼</color>=<color\=#00e3ff>Azure</color>
+ジョウカのレベルが４００に到達=Jouka's level reaches 400
+<color\=#00e3ff>憧憬</color>=<color\=#00e3ff>Longing</color>
+ジョウカのレベルが３５０に到達=Jouka's level reaches 350
+ジョウカのレベルが３００に到達=Jouka's level reaches 300
+<color\=#00e3ff>青い記憶</color>=<color\=#00e3ff>Blue memory</color>
+ジョウカのレベルが２５０に到達=Jouka level reaches 250
+<color\=#00e3ff>鬼殺し</color>=<color\=#00e3ff>Killing a demon</color>
+ジョウカのレベルが２００に到達=Jouka's level reaches 200
+ジョウカのレベルが１００に到達=Jouka's level reaches 100
+<color\=#00e3ff>夜叉</color>=<color\=#00e3ff>Sacr</color>
+ウラオオサカの<color\=#ff2c9a>女帝</color>=Ura Osaka's<color\=#ff2c9a>empress</color>
+ウラオオサカの<color\=#ff2c9a>帝王</color>=Ura Osaka's<color\=#ff2c9a>emperor</color>
+ウラシブヤの<color\=#ff2c9a>帝王</color>=Urashibuya's<color\=#ff2c9a>emperor</color>
+ウラシブヤの<color\=#ff2c9a>女帝</color>=Urashibuya's<color\=#ff2c9a>empress</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の英鬼</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>Heroic Demon of November</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の英鬼</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>Heroic Demon of October</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の英鬼</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>Heroic Demon of September</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の俊血</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>Shunketsu of July</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の俊血</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>Junketsu of June</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の俊鬼</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>Shunki of May</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊鬼</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>Shunki of April</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊鬼</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>Shunki of March</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊鬼</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February Shunki</color>
