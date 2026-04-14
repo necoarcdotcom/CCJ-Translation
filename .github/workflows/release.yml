@@ -1,0 +1,58 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed for commit count
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Determine version
+        id: version
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/* ]]; then
+            # Tagged release — use the tag as-is (e.g. v1.2.3)
+            VERSION="${GITHUB_REF#refs/tags/}"
+            PRERELEASE=false
+          else
+            # Untagged push to main — auto version: v<YYYY.MM.DD>.<run_number>
+            DATE=$(date -u '+%Y.%m.%d')
+            VERSION="v${DATE}.${GITHUB_RUN_NUMBER}"
+            PRERELEASE=true
+          fi
+          echo "version=${VERSION}" >> $GITHUB_OUTPUT
+          echo "prerelease=${PRERELEASE}" >> $GITHUB_OUTPUT
+          echo "Version: ${VERSION} (prerelease: ${PRERELEASE})"
+
+      - name: Build release zip
+        run: python build_release.py
+
+      - name: Rename zip with version
+        run: mv CCJ-Translation.zip CCJ-Translation-${{ steps.version.outputs.version }}.zip
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: CCJ-Translation ${{ steps.version.outputs.version }}
+          prerelease: ${{ steps.version.outputs.prerelease }}
+          body: |
+            **Install:** Extract the zip and copy the `BepInEx/` folder into your Chase Chase Jokers game directory. Launch with `spice64.exe -k doorstop.dll`.
+          files: CCJ-Translation-${{ steps.version.outputs.version }}.zip
