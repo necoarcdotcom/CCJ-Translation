@@ -205,6 +205,8 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
             folder = 'matching'
         elif fname.startswith('ui_chat_'):
             folder = 'chat'
+        elif fname.startswith('ui_emote'):
+            folder = 'chat'
         elif fname.startswith('ui_stage_name_'):
             folder = 'stage'
         else:
