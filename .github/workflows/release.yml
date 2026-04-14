@@ -6,6 +6,10 @@ on:
       - main
     tags:
       - 'v*'
+    paths:
+      - 'BepInEx/Translation/en/Text/**.txt'
+      - 'BepInEx/Translation/en/Texture/**'
+      - 'translated_textures.json'
 
 jobs:
   build:
