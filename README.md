@@ -6,11 +6,23 @@ A fan-made English translation for the Konami arcade game **Chase Chase Jokers**
 
 ## Installation
 
-1. Copy the `BepInEx/` folder, `doorstop.dll`, and `doorstop_config.ini` from this repo into your Chase Chase Jokers game directory.
-2. Launch the game via spice64 with the `-k doorstop.dll` option:
-   ```
-   spice64.exe -k doorstop.dll [your other options]
-   ```
+Download the latest release zip from the [Releases](../../releases/latest) page, extract it, and copy the contents into your Chase Chase Jokers game directory. Then launch via spice64:
+
+```
+spice64.exe -k doorstop.dll [your other options]
+```
+
+---
+
+## Releases
+
+A new release is automatically built and published every time a change is merged into `main`. Each release includes:
+
+- All translated text strings, split by category
+- Only textures that have been marked as translated
+- The AutoTranslator config with texture dumping disabled
+
+Releases tagged `vYYYY.MM.DD.<number>` are automatic builds from `main`. Releases tagged `vX.Y.Z` are manually cut stable versions.
 
 ---
 
@@ -28,7 +40,7 @@ The game dumps autotranslated strings into `BepInEx/Translation/en/Text/_AutoGen
    ```
 4. Commit the `staging/` folder and open a pull request.
 
-A maintainer will review the staging files and run `py contribute.py --apply` to merge them in.
+A maintainer will review and run `py contribute.py --apply` to merge them in.
 
 ---
 
@@ -39,7 +51,9 @@ Textures are in `BepInEx/Translation/en/Texture/`, organised by scene. To replac
 1. Find the texture you want to translate in the subfolders.
 2. Create a replacement `.png` with the **exact same filename**.
 3. Drop it into the `Texture/` root folder (not the subfolder).
-4. Run `py contribute.py` — it will move the file to the correct subfolder automatically.
+4. Run the appropriate command:
+   - `py contribute.py` — moves the file to the correct subfolder. The texture will **not** be included in releases until marked as translated.
+   - `py contribute.py --translated` — moves the file and marks it as translated. It will be included in all future release zips.
 5. Commit and open a pull request.
 
 This works for both replacing an existing texture and adding a new one that isn't in the repo yet.
