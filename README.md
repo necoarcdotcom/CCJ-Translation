@@ -52,8 +52,8 @@ Textures are in `BepInEx/Translation/en/Texture/`, organised by scene. To replac
 2. Create a replacement `.png` with the **exact same filename**.
 3. Drop it into the `Texture/` root folder (not the subfolder).
 4. Run the appropriate command:
-   - `py contribute.py` — moves the file to the correct subfolder. The texture will **not** be included in releases until marked as translated.
-   - `py contribute.py --translated` — moves the file and marks it as translated. It will be included in all future release zips.
+   - `py contribute.py` — moves the file into `Texture/_untranslated/<scene>/`. It will be visible in the repo for others to work on but excluded from releases.
+   - `py contribute.py --translated` — moves the file into the normal `Texture/<scene>/` folder and registers it in the release manifest. It will be included in all future release zips.
 5. Commit and open a pull request.
 
 This works for both replacing an existing texture and adding a new one that isn't in the repo yet.
