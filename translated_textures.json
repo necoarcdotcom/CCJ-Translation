@@ -26,6 +26,8 @@
   "BepInEx/Translation/en/Texture/chat/ui_emote03 [E8C97F87E9-D04D8BE588].png",
   "BepInEx/Translation/en/Texture/chat/ui_emote04 [F1F738998D-F8FAD3C1A7].png",
   "BepInEx/Translation/en/Texture/chat/ui_emote05 [3399BC619A-B287F76BD8].png",
+  "BepInEx/Translation/en/Texture/chat/ui_emote06 [38F9875113-54B3C8A85D].png",
+  "BepInEx/Translation/en/Texture/chat/ui_emote09 [41A4346847-43FE637806].png",
   "BepInEx/Translation/en/Texture/common/sactx-0-2048x2048-BC7-common-5bb2db8c [2FDB858059-E0A127BE6A].png",
   "BepInEx/Translation/en/Texture/common/sactx-3-2048x1024-BC7-common-5bb2db8c [5DB56A3F06-181887157A].png",
   "BepInEx/Translation/en/Texture/gameover/sactx-0-2048x2048-BC7-gameover-1eb5d4c4 [96A7656C76-626FECE3B0].png",
@@ -35,6 +37,7 @@
   "BepInEx/Translation/en/Texture/matching/matching_rank_04 [BE46650A68-C92C3F1F5A].png",
   "BepInEx/Translation/en/Texture/matching/matching_rank_06 [299BD03A83-196D4A6C73].png",
   "BepInEx/Translation/en/Texture/matching/matching_rank_07 [6932537D9F-A2766BEB56].png",
+  "BepInEx/Translation/en/Texture/matching/matching_rank_08 [42169225E5-E8419DCB89].png",
   "BepInEx/Translation/en/Texture/matching/sactx-0-2048x2048-BC7-matching-d3012852 [8D0C30D243-36F8E10C4A].png",
   "BepInEx/Translation/en/Texture/matching/sactx-1-1024x2048-BC7-matching-d3012852 [95034A5517-0F88DCD250].png",
   "BepInEx/Translation/en/Texture/mode_select/sactx-0-2048x2048-BC7-mode_select-c013bcd6 [7643CD1F58-B4E2918BA8].png",
@@ -46,5 +49,7 @@
   "BepInEx/Translation/en/Texture/sakasamatower/sactx-5-2048x2048-BC7-sakasamatower-c02fcf33 [1A8CA25BF8-B7D94C8B1D].png",
   "BepInEx/Translation/en/Texture/shop/sactx-2-2048x2048-BC7-shop-7ee256d6 [110ADD6A56-9FD0FE0E9B].png",
   "BepInEx/Translation/en/Texture/stage/ui_stage_name_Shibuya01 [8E9757C588-079C67F498].png",
+  "BepInEx/Translation/en/Texture/sub/sactx-0-2048x2048-BC7-sub-eaa46ac8 [956AE3E9E2-2F2F3DF5BA].png",
+  "BepInEx/Translation/en/Texture/sub/sactx-1-2048x2048-BC7-sub-eaa46ac8 [66E7DD9CBD-00D60F6AC4].png",
   "BepInEx/Translation/en/Texture/tutorial/sactx-0-2048x1024-BC7-tutorial-65d86bd1 [6467202A2C-FAE7EB9430].png"
 ]
